@@ -10,3 +10,4 @@ time_series.ipynb contains the code for LinearSVR and Random Forest regression.
 
 poisson V2.ipynb contains the code for Poisson regression.
 
+COVID-19 Analysis.pdf contains the slides from our presentation in PDF format.
